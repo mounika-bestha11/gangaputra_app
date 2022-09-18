@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386078821744",
+    "project_id": "gangaputra-app",
+    "storage_bucket": "gangaputra-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386078821744:android:dfbedf0f707332e9dc93b5",
+        "android_client_info": {
+          "package_name": "com.gangaputra.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386078821744-2p1uanaunsja9h91hmnoqedp5j7v134d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgSNUIVT8cGgFIgQx2wg_-0biMVbiQ8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386078821744-2p1uanaunsja9h91hmnoqedp5j7v134d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
